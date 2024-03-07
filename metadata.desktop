@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Type=sddm-theme
+Version=0.1
+Name=multigruv
+Description=multigruv
+Author=aldavs
+Copyright=(c) 2023-2024, aldavs
+Website=https://github.com/aldavs/multigruv
+Screenshot=screenshot_multigruv.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=
+Email=
+Theme-Id=multigruv
+Theme-API=2.0
