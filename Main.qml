@@ -31,7 +31,7 @@ Rectangle {
   }
 
   FontLoader {
-    id: textFont; name: config.Font
+    id: textFont; source: config.Font
   }
 
   Repeater {
